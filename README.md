@@ -1,2 +1,2 @@
 # Password-Generator
-Password generator in Python. First project in Python
+Este programa é um gerador de senha escrito na linguagem de programação Python. Para usá-lo, o usuário deve executar no VSCode ou em outra plataforma de programação para a linguagem Python. Quando executado, o programa irá pedir a quantidade de senhas que é para gerar e a quantidade de caracteres que a senha deve possuir. Após isso, o programa irá gerar as senhas de acordo com os parâmetros colocados pelo usuário.
